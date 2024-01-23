@@ -1,0 +1,14 @@
+C:\Users\elire\source\repos\GCLab2\GCLab2\bin\Debug\net8.0\GCLab2.exe
+C:\Users\elire\source\repos\GCLab2\GCLab2\bin\Debug\net8.0\GCLab2.deps.json
+C:\Users\elire\source\repos\GCLab2\GCLab2\bin\Debug\net8.0\GCLab2.runtimeconfig.json
+C:\Users\elire\source\repos\GCLab2\GCLab2\bin\Debug\net8.0\GCLab2.dll
+C:\Users\elire\source\repos\GCLab2\GCLab2\bin\Debug\net8.0\GCLab2.pdb
+C:\Users\elire\source\repos\GCLab2\GCLab2\obj\Debug\net8.0\GCLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elire\source\repos\GCLab2\GCLab2\obj\Debug\net8.0\GCLab2.AssemblyInfoInputs.cache
+C:\Users\elire\source\repos\GCLab2\GCLab2\obj\Debug\net8.0\GCLab2.AssemblyInfo.cs
+C:\Users\elire\source\repos\GCLab2\GCLab2\obj\Debug\net8.0\GCLab2.csproj.CoreCompileInputs.cache
+C:\Users\elire\source\repos\GCLab2\GCLab2\obj\Debug\net8.0\GCLab2.dll
+C:\Users\elire\source\repos\GCLab2\GCLab2\obj\Debug\net8.0\refint\GCLab2.dll
+C:\Users\elire\source\repos\GCLab2\GCLab2\obj\Debug\net8.0\GCLab2.pdb
+C:\Users\elire\source\repos\GCLab2\GCLab2\obj\Debug\net8.0\GCLab2.genruntimeconfig.cache
+C:\Users\elire\source\repos\GCLab2\GCLab2\obj\Debug\net8.0\ref\GCLab2.dll
